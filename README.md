@@ -1,1 +1,2 @@
-Restaurant Order analysis done with the assistance of Maven Analytics as a guided project. Where it has two tables named as Menu items and order id.
+Restaurant Order analysis done with the assistance of Maven Analytics as a guided project. This project is completely dine in MySQL, it has two tables named as menu items and order details. Objective_1 file is the queries for the menu_item, Objective_2 file is for order_details and Objective_3 file consist of queries involving both the tabels.
+In this project I used the basics 7 keywords of MySQL SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT. Along with JOINS.
